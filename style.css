@@ -414,6 +414,7 @@ p {
 	color: whitesmoke;
 	text-align: justify;
 	font-size: 15pt;
+	font-weight: 5px;
 }
 .col-left .about-img {
 	height: 100%;
